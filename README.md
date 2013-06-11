@@ -1,12 +1,14 @@
-# [Roots Theme](http://www.rootstheme.com/)
+# Customized [Roots Theme](http://www.rootstheme.com/)
 
 Roots is a starting WordPress theme made for developers that’s based on
 [HTML5 Boilerplate](http://html5boilerplate.com/) and [Bootstrap from Twitter](http://twitter.github.com/bootstrap/).
 
+Difference to the original: Adding and removing a few forced choices, esp. the cleanup stuff. Another goal: **proper** OOP Singleton patterns - removing all that moronic procedural crap which might - and always does! - lead to nasty accidents with multiple defined functions.. asides of being unreadable!
+
+
 * Source: [https://github.com/retlehs/roots](https://github.com/retlehs/roots)
 * Home Page: [http://www.rootstheme.com/](http://www.rootstheme.com/)
-* Twitter: [@retlehs](https://twitter.com/retlehs)
-* Google Group: [http://groups.google.com/group/roots-theme](http://groups.google.com/group/roots-theme)
+
 
 ## Installation
 
