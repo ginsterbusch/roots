@@ -44,33 +44,13 @@ Bulgarian, Catalan, Danish, Dutch, English, Finnish, French, German, Hungarian,
 Indonesian, Italian, Korean, Macedonian, Norwegian, Polish, Russian, Simplified
 Chinese, Spanish, Swedish, Traditional Chinese, Turkish, Vietnamese)
 
-### Build Script
 
-The [grunt branch](https://github.com/retlehs/roots/tree/grunt) contains a build
-script powered by grunt. More information can be found at [Integrating grunt.js with Roots](http://benword.com/integrating-grunt-js-with-roots/).
+## Work in Progress
 
-* Easily compile LESS files
-* Minification and concatenation without plugins
-* Fewer requests made to the server (one CSS file, one main JS file besides
-Modernizr and jQuery)
-* Ensures valid JavaScript
-* Others working on your project are able to use the same build script and have
-a unified development process
-* Code is optimized for production use
+* above mentioned Singleton / OOP patterns
+* less excessive forced cleanup "choices"
+* qTranslate compatiblity
+* More fun with a working [HeadJS plugin](http://wordpress.org/plugins/asynchronous-javascript/) solution ;)
 
-## Contributing
 
-Everyone is welcome to help [contribute](CONTRIBUTING.md) and improve this project.
-There are several ways you can contribute:
 
-* Reporting issues (please read [issue guidelines](https://github.com/necolas/issue-guidelines))
-* Suggesting new features
-* Writing or editing [docs](doc/TOC.md)
-* Writing or refactoring code
-* Fixing [issues](https://github.com/retlehs/roots/issues)
-* Replying to questions on the [Google Group](http://groups.google.com/group/roots-theme)
-
-## Support
-
-Use the [Google Group](http://groups.google.com/group/roots-theme) to ask
-questions and get support.
